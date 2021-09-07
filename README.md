@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m not currently workin on IT, but looking forward to change this status.
+- 🔭 I’m not currently workin on IT, but looking forward to change this status soon.
 - 🌱 I’m currently learning Python, MySQL and HTML
 
 <div style="display: inline_block"><br>
